@@ -27,6 +27,7 @@ Follow these steps to set up the project on your local machine:
 5) http://localhost:5173/
 
 FOLDER STRUCTURE
+
 iceCreamApp/
 ├── public/                  # Static assets
 │   └── vite.svg
@@ -46,3 +47,4 @@ iceCreamApp/
 ├── vite.config.js           # Vite config
 ├── eslint.config.js         # ESLint config
 └── README.md
+
