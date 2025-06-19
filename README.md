@@ -16,7 +16,10 @@ A beautiful, interactive React + Vite app to showcase different ice cream flavor
 - Vite
 
 DEPLOYED VERCEL LINK : https://ice-cream-app-pi.vercel.app/
-TO RUN LOCALLY:
+
+Run Locally
+Follow these steps to set up the project on your local machine:
+
 1) git clone https://github.com/catmac25/iceCreamApp.git
 2) cd iceCreamApp
 3) npm install
