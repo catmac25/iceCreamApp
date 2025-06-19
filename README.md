@@ -25,3 +25,24 @@ Follow these steps to set up the project on your local machine:
 3) npm install
 4) npm run dev
 5) http://localhost:5173/
+
+FOLDER STRUCTURE
+iceCreamApp/
+├── public/                  # Static assets
+│   └── vite.svg
+│
+├── src/                     # Source code
+│   ├── App.css
+│   ├── App.jsx              # Main app component
+│   ├── index.css            # Global styles (Tailwind)
+│   ├── main.jsx             # Entry point for React
+│   └── assets/              # Images and other media
+│
+├── index.html               # HTML template
+├── package.json             # Project dependencies
+├── package-lock.json
+├── postcss.config.js        # PostCSS config
+├── tailwind.config.js       # Tailwind CSS config
+├── vite.config.js           # Vite config
+├── eslint.config.js         # ESLint config
+└── README.md
