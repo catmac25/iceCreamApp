@@ -1,12 +1,24 @@
-# React + Vite
+# Ice Cream App 🍦
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, interactive React + Vite app to showcase different ice cream flavors with dynamic backgrounds.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Vite setup
+- Gradient theme switching
+- Animated ice cream previews
+- Responsive layout
 
-## Expanding the ESLint configuration
+## 🧪 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- Vite
+
+DEPLOYED VERCEL LINK : https://ice-cream-app-pi.vercel.app/
+TO RUN LOCALLY:
+1) git clone https://github.com/catmac25/iceCreamApp.git
+2) cd iceCreamApp
+3) npm install
+4) npm run dev
+5) http://localhost:5173/
